@@ -12,7 +12,7 @@ public class Main {
 		ll.print();
 		ll.getLength();
 		ll.reverse();
-		System.out.println("");
+		System.out.println("this is test git");
 		System.out.print("after reverse: ");
 		ll.print();
 	}
